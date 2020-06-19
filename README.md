@@ -1,4 +1,5 @@
 # The QUEST to find the BEST in console gaming
+![Funny Image](https://media.giphy.com/media/hXCMbDqS1IlqcneC6d/giphy.gif)
 
 ## Data Analytics with Python: Assignment
 
